@@ -1,0 +1,77 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (sample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BossBattle.cpp
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(31): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(34): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(48): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(52): warning C4305: 'initializing': truncation from 'double' to 'float'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(109): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(208): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(209): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(210): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(211): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(225): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(226): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(227): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(228): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(238): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(239): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(240): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(241): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(250): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(251): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(252): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(253): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(267): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(268): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(269): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(270): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(280): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(280): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(281): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(282): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(283): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(283): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(292): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(293): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(294): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(295): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(333): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(334): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(335): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(336): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(346): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(347): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(348): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(349): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(359): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(360): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(361): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(362): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(372): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(373): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(374): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(375): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(393): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(394): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(395): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(435): warning C4305: '=': truncation from 'double' to 'float'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(442): warning C4305: '=': truncation from 'double' to 'float'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(443): warning C4305: '=': truncation from 'double' to 'float'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(450): warning C4305: '=': truncation from 'double' to 'float'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(451): warning C4305: '=': truncation from 'double' to 'float'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(458): warning C4305: '=': truncation from 'double' to 'float'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(459): warning C4305: '=': truncation from 'double' to 'float'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(472): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(473): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(499): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(500): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(508): warning C4305: '-=': truncation from 'double' to 'float'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(512): warning C4305: '+=': truncation from 'double' to 'float'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(521): warning C4305: '-=': truncation from 'double' to 'float'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(525): warning C4305: '+=': truncation from 'double' to 'float'
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(534): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+f:\other stuff\graphics\graphics coursework\boss battle\bossbattle.cpp(539): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  BossBattle.vcxproj -> F:\Other Stuff\graphics\Graphics Coursework\Boss Battle\Debug\BossBattle.exe
